@@ -1,4 +1,4 @@
-
+// Projketets unika package rad.
 package com.example.matlistan
 
 // Med hjälp av importer hämtar vi alla funktioner och verktyg som appen behöver.
